@@ -12,8 +12,8 @@ import ometcommon.OMETConnection;
 
 public class omet_list {
 
-    private static final String username = "jgr10";
-    private static final String password = "6083";
+    private static final String username = "user";
+    private static final String password = "password";
 
     //program logic is as follows:
     //verify that there are minimum amount of arguments supplied

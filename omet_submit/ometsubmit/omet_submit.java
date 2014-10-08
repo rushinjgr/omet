@@ -14,8 +14,8 @@ import java.util.Date;
 
 public class omet_submit {
 
-    private static final String username = "jgr10";
-    private static final String password = "6083";
+    private static final String username = "user";
+    private static final String password = "password";
 
     //application logic is as follows:
     //sanitize user input or screen for bad input

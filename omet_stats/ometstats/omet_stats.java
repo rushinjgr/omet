@@ -16,8 +16,8 @@ import ometlist.surveyinfo;
 
 public class omet_stats {
 
-    private static final String username = "jgr10";
-    private static final String password = "6083";
+    private static final String username = "";
+    private static final String password = "";
     
     //application logic is virtually identical to that of omet_list
     //data processing at the end is different, however

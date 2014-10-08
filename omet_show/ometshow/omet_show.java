@@ -14,8 +14,8 @@ import ometcommon.OMETConnection;
 
 public class omet_show {
 
-    private static final String username = "jgr10";
-    private static final String password = "6083";
+    private static final String username = "user";
+    private static final String password = "password";
 
     //parse, sanitize, and check if user input is valid
     //attempt to find the survey data in the database
